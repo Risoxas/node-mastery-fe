@@ -1,0 +1,30 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  margin: 0 auto;
+  padding: 1rem;
+  border: 1px solid black;
+  border-radius: 5%;
+  box-shadow: 0 0 5px black;
+  label {
+    display: flex;
+    flex-direction: column;
+    margin: 0.25rem 0;
+  }
+  button {
+    font-weight: bold;
+    width: fit-content;
+    height: min-content;
+    margin-top: 0.5rem;
+    color: #008080;
+    background-color: white;
+    border: 1.5px solid teal;
+    border-radius: 5%;
+    box-shadow: 0 0 5px teal;
+  }
+  textarea {
+    min-height: 100px;
+    min-width: 150px;
+  }
+}

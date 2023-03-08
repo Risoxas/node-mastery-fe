@@ -1,0 +1,17 @@
+a {
+  text-decoration: none;
+}
+.menu-btn {
+  a {
+    color: white;
+  }
+
+  a:hover {
+    box-shadow: 10px 10px 5px -5px #00f0f0;
+  }
+}
+.active {
+  a {
+    color: yellow;
+  }
+}

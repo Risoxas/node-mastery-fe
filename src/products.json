@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "title": "book 1",
+      "id": 290118085001,
+      "image": "https://picsum.photos/200",
+      "price": 20,
+      "description": "an awesome book"
+    },
+    {
+      "title": "book 2",
+      "id": 843601491384,
+      "image": "https://picsum.photos/200",
+      "price": 20,
+      "description": "an awesome book"
+    },
+    {
+      "title": "book 2",
+      "id": 843601491386,
+      "image": "https://picsum.photos/200",
+      "price": 20,
+      "description": "an awesome book"
+    },
+    {
+      "title": "book 2",
+      "id": 843601491389,
+      "image": "https://picsum.photos/200",
+      "price": 20,
+      "description": "an awesome book"
+    },
+    {
+      "title": "book 2",
+      "id": 843601491381,
+      "image": "https://picsum.photos/200",
+      "price": 20,
+      "description": "an awesome book"
+    },
+    {
+      "title": "book 2",
+      "id": 843601491380,
+      "image": "https://picsum.photos/200",
+      "price": 20,
+      "description": "an awesome book"
+    },
+    {
+      "title": "book 2",
+      "id": 843601491383,
+      "image": "https://picsum.photos/200",
+      "price": 20,
+      "description": "an awesome book"
+    },
+    {
+      "title": "book 2",
+      "id": 843601491346,
+      "image": "https://picsum.photos/200",
+      "price": 20,
+      "description": "an awesome book"
+    },
+    {
+      "title": "book 2",
+      "id": 843601491312,
+      "image": "https://picsum.photos/200",
+      "price": 20,
+      "description": "an awesome book"
+    }
+  ]
+}
